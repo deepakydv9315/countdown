@@ -42,6 +42,9 @@ body {
   padding: 10px;
   margin: 10px;
   border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   border: none;
   outline: none;
   background-color: #ffffff;
@@ -49,6 +52,6 @@ body {
 }
 
 .btn i {
-  font-size: 20px;
+  font-size: 23px;
   cursor: pointer;
 }
